@@ -6,7 +6,7 @@ Projeto simples em Java para simular batalhas entre ninjas, inspirado no univers
 
 - `src/Model/Ninja.java`: Classe que representa um ninja, com métodos para atacar e receber golpes.
 - `src/Model/Jutsu.java`: Classe que representa um jutsu, com dano e quantidade de chakra necessária.
-- `src/Model/Batalha.java`: (Opcional) Pode conter lógica para batalhas entre vários ninjas.
+- `src/Model/Batalha.java`: (Opcional) Pode conter lógica para batalhas entre dois ninjas.
 - `src/Main.java`: Classe principal para executar o programa.
 
 ## Como funciona
