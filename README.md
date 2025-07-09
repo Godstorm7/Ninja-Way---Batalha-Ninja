@@ -36,7 +36,7 @@ Ninja sasuke = new Ninja("Sasuke", new Jutsu("Chidori", 25, 18));
 naruto.atacar(sasuke);
 ```
 
-## Samuel Dantas de Albuquqerque
+## Samuel Dantas de Albuquerque
 
 Projeto desenvolvido para fins de estudo.
 
